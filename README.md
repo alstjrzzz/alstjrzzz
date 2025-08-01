@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-https://github.com/alstjrzzz/alstjrzzz/blob/master/README.en.md
-
 <!--
 **alstjrzzz/alstjrzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
